@@ -85,9 +85,6 @@ pehnawa-shop/
 - Backend ensures variant-safe deletion via `cartItemId`.
 
 ---
-
-## 🖼 Images
-- Product images can be **local assets** or **online URLs**.
 - Example usage:
 
 ```jsx
